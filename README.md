@@ -3,7 +3,7 @@
 ## Group Members: Rachel, Sahaj, Jacob, Matt
 
 ##  GOAL:
-To create and compare 3 month prediction models using Prophet, Arima, Neural Network and LTSM RNN with housing data in Phoenix Arizona over the last 18 months. With the best model chosen, a RoboAdvisor will be created to answer questions a new homebuyer might need. 
+To create and compare prediction models using Prophet, Arima, Neural Network and LTSM RNN with housing data in Phoenix Arizona over the last 18 months. With the best model chosen, a RoboAdvisor will be created to answer questions a new homebuyer might need. 
 
 
 ##  Which model shows the best predictability and least error?
