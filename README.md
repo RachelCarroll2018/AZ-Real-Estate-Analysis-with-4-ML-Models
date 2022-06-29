@@ -2,7 +2,8 @@
 
 ## Group Members: Rachel, Sahaj, Jacob, Matt
 
-Link to Google Colab: Prophet Model and LSTM RNN (File too big to upload): https://colab.research.google.com/drive/1KYfv4rt8DAN4Gtgi-I5mTuW4YKsuHQ4c#scrollTo=YfW8kEQjBZtN
+Link to Google Colab: Prophet Model and LSTM RNN (File too big to upload):
+[Link](https://colab.research.google.com/drive/1KYfv4rt8DAN4Gtgi-I5mTuW4YKsuHQ4c#scrollTo=YfW8kEQjBZtN)
 
 ##  GOAL:
 To create and compare prediction models using Prophet, Arima, Neural Network and LTSM RNN with housing data in Phoenix Arizona over the last 18 months. With the best model chosen, a RoboAdvisor will be created to answer questions a new homebuyer might need. 
