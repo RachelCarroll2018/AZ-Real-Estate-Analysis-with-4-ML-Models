@@ -5,6 +5,8 @@
 Link to Google Colab: Prophet Model and LSTM RNN (File too big to upload):
 [Link](https://colab.research.google.com/drive/1KYfv4rt8DAN4Gtgi-I5mTuW4YKsuHQ4c#scrollTo=YfW8kEQjBZtN)
 
+Slide Deck: [Powerpoint Slides](https://docs.google.com/presentation/d/1nvsEghoy8ITVGwbddee6Mjo9Xul0EkJ1yCKQl0QnyNc/edit#slide=id.g35f391192_00)
+
 ##  GOAL:
 To create and compare prediction models using Prophet, Arima, Neural Network and LTSM RNN with housing data in Phoenix Arizona over the last 18 months.
 
