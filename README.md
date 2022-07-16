@@ -2,8 +2,8 @@
 
 ## Group Members: Rachel, Sahaj, Jacob, Matt
 
-Link to Google Colab: 
-Prophet Model and LSTM RNN
+Link to Google Colab: <br>
+Prophet Model and LSTM RNN <br>
 [Link](https://colab.research.google.com/drive/1KYfv4rt8DAN4Gtgi-I5mTuW4YKsuHQ4c#scrollTo=YfW8kEQjBZtN) <br>
 Arima: [Arima](https://colab.research.google.com/drive/1xSdrH6eaLHs9hKnD2Sun7dxveKmrl3-b#scrollTo=P9f-oitEJolt)
 
